@@ -1,5 +1,5 @@
- ### _Hi, I’m Débora!_
-<sup> Currently a first-year student at [`Inteli`](https://www.inteli.edu.br/) ✨Institute of Technology and Leadership✨ </sup>
+ ## _Hey there, I’m Débora!_
+_Currently a first-year student at [`Inteli`](https://www.inteli.edu.br/) ✨Institute of Technology and Leadership✨_
 
 ▫️ I'm into creating `high quality, timeless and beautiful` solutions through tech that support our life\
 ▫️ Working as a `Certificate Notion Creator` - like Notion? Let's get in touch [here](https://deborapereira.notion.site/8c2e24965d3b48fda6a5a1fdf89449b3)!\
