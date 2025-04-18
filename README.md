@@ -8,7 +8,3 @@ _Currently a first-year student at [`Inteli`](https://www.inteli.edu.br/) ✨Ins
 
 ![Design sem nome (7)](https://github.com/user-attachments/assets/e339be23-e032-47ed-af8a-25a176cb9252)
 
-<!---
-deborangueira/deborangueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
